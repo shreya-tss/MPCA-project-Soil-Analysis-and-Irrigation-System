@@ -11,5 +11,7 @@ This project also makes use of Water Sensor to control water levels and Temperat
 * Jumper Wires
 * 9V battery
 * Water Sensor
-* DHT 11 Temperature and Humidity Sensor 
+* DHT 11 Temperature and Humidity Sensor
+
+  
 ![image](https://github.com/shreya-tss/MPCA-project-Plant-Watering-System/assets/114325137/93f6a8b4-d734-4b4c-a682-f475141be73e)
