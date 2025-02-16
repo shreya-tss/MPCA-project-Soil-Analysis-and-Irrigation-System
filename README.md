@@ -1,4 +1,4 @@
-# MPCA-project-Soil Analysis and Irrigation System
+# MPCA-project-Smart Irrigation System
 This system will monitor the soil moisture level and automatically water the plants when necessary.
 This project provides a solution for watering the plants in owner's absence and helps individuals who struggle to maintain a proper water schedules thus aiding in better plant health.
 Helps in assissting Farmers to water the crops in tough weather conditions in some demographics.
